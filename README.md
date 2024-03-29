@@ -14,7 +14,7 @@ GrootBot is a smart and versatile AI chatbot Android application, designed to re
 
 ## Screenshots Dark Theme
 
-![Screenshot 1](https://github.com/Maruthi1225/GrootBotAIchatbot/assets/140306610/94a0ae12-44e7-4291-a9e3-2e7eb0bfa01e)
+<img src="https://github.com/Maruthi1225/GrootBotAIchatbot/assets/140306610/94a0ae12-44e7-4291-a9e3-2e7eb0bfa01e" alt="Screenshot 1" width="200">
 ![Screenshot 2](https://github.com/Maruthi1225/GrootBotAIchatbot/assets/140306610/c72b6c54-d597-4bc4-8e37-424e4f23f6a5)
 ![Screenshot 3](https://github.com/Maruthi1225/GrootBotAIchatbot/assets/140306610/56ad67f1-c531-45ef-b4de-c7c9e1606a18)
 ![Screenshot 4](https://github.com/Maruthi1225/GrootBotAIchatbot/assets/140306610/a20cf157-f98e-4234-ba88-3867841df20a)
