@@ -1,6 +1,7 @@
 # GrootBot
 
-![GrootBot Logo](images/logo.png)
+![GrootBot Logo](![Groot_bebé__-removebg-preview (1)](https://github.com/Maruthi1225/GrootBotAIchatbot/assets/140306610/d945074a-73aa-4919-8ac3-6d6185c5ee36)
+)
 
 GrootBot is a smart and versatile AI chatbot Android application, designed to revolutionize the way users interact with their devices. With cutting-edge technology and a user-friendly interface, GrootBot offers a seamless and enjoyable chatting experience.
 
